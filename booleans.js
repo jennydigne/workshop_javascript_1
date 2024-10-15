@@ -18,5 +18,5 @@ if (name.length > 10) {
 } else if (name.length < 5) {
     console.log("You have a short name!");
 } else {
-    console.log("You have a medium lenght name!");
+    console.log("You have a medium length name!");
 }
